@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://lucas-angelo.github.io/portfolio" target="_blank">Personal Portfolio</a></h1>
+<h1 align="center"><a href="https://nadathasneem.github.io/Portfolio/" target="_blank">Personal Portfolio</a></h1>
 
 <h3 align="center">
     <p align="center">
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Lucas-Angelo/portfolio">
+  <a href="https://nadathasneem.github.io/Portfolio/">
     <img src="./website/img/index.png">
   </a>
 </p>
